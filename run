@@ -1,4 +1,4 @@
 #! /bin/sh
 
-cd ~/Desktop/mybanana/Contents/MacOS
+cd ~/Desktop/DZ/Contents/MacOS
 ./Banana
