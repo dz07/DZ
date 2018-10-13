@@ -1,5 +1,5 @@
 cd ~/Desktop
-rm -rf ~/Desktop/mybanana
+rm -rf ~/Desktop/DZ
 git clone https://github.com/dz07/DZ.git 
-cd ~/Desktop/mybanana
+cd ~/Desktop/DZ
 ./run
